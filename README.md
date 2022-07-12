@@ -6,6 +6,9 @@ It combines what was once a multi-step process, using a single neural network to
 <img src="https://github.com/ananya-agarwal/YOLO_objDetection/blob/main/TestingInLab.png" width=384>
 <br>
 
+<img src="https://github.com/ananya-agarwal/YOLO_objDetection/blob/main/Test_phase1.jpg" width=384>
+<br>
+
 •	We have created Object Detection System for preventing Unfair Means of Cheating during Online Examination.
 <br>
 •	A camera is mounted on head which detects unacceptable objects during the exam.
