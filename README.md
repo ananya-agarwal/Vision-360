@@ -7,7 +7,9 @@ It combines what was once a multi-step process, using a single neural network to
 <br>
 
 •	We have created Object Detection System for preventing Unfair Means of Cheating during Online Examination.
+<br>
 •	A camera is mounted on head which detects unacceptable objects during the exam.
+<br>
 •	Tech: You Only Look Once (YOLO V4), Tensorflow, Google Colab, OPENCV, Rest
 
 
