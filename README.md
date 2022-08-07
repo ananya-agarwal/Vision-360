@@ -5,7 +5,7 @@
 <li> During the COVID-19 Pandemic, examination process were forced to move in online form. </li>
 <li> While online exams/proctoring had help in cost cutting and helped to reach applicants even in remote area, the one major issue regarding to this system is use of UNFAIR MEANS. </li>
 <li> Main Goal: Develop a second feed camera system which could be combined with the already existing laptop webcam and minimize the blind spots which were vastly present with a single camera system.</li>
-<li> Online exams which are less costly can thus be conducted in the future as well which can be proctored and indeed save the money given to the Proctors/Invigilators. </li>
+<li> Online exams which are less costly can thus be conducted instead of the offline exams in the future which can indeed save the money given to the Proctors/Invigilators. </li>
 <li> This has its application even in the call centers, all type of online examinations and wherever there is a need of proctoring.</li>
 </ul>
 
