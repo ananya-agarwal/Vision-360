@@ -17,6 +17,8 @@
 <li> The webam, micrphone, speaker is connected to the laptop of the examinee. Laptop now has 2 cameras' access. One camera would check only at the front for the authentication of the person. Other camera is mounted on the examinee's head which will rotate 360 and check for the unfair means surrounding the examinee.</li>
 </ul>
 ![image](https://user-images.githubusercontent.com/68558847/183278951-5a2edbee-5b3d-42cd-8f93-fc9a3d68b0f4.png)
+![image](https://user-images.githubusercontent.com/68558847/183278983-6f8a1731-20d0-49df-bb69-879b0b883ea0.png)
+
 
 ## Need Analysis
 <ul>
