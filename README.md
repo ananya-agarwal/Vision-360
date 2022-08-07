@@ -13,11 +13,15 @@
 <ul>
   <li> Hardware: A headband is prototyped via 3D modelling on CREO. It was later 3D printed. Special mount was created to place the camera for a better view. Band is made such that it completed the need of a microphone and a speaker which is a necessity of the online examinations. </li>
 <li> This device smartly detects and prevents cheating by using AI combined with 360 degrees view to check if there are some objectionable means in the environment of the examine. </li>
-<li> Software/ ML model: YOLOV4 or You Only Look Once, is a popular real-time object detection algorithm. It is helping us detect allowed vs not allowed objects during the examination.
+<li> Software/ ML model: YOLOV4 or You Only Look Once, is a popular real-time object detection algorithm. It is helping us detect allowed vs not allowed objects during the examination.</li>
 <li> The webam, micrphone, speaker is connected to the laptop of the examinee. Laptop now has 2 cameras' access. One camera would check only at the front for the authentication of the person. Other camera is mounted on the examinee's head which will rotate 360 and check for the unfair means surrounding the examinee.</li>
 </ul>
 ![image](https://user-images.githubusercontent.com/68558847/183278951-5a2edbee-5b3d-42cd-8f93-fc9a3d68b0f4.png)
 ![image](https://user-images.githubusercontent.com/68558847/183278983-6f8a1731-20d0-49df-bb69-879b0b883ea0.png)
+
+##Testing Phase
+![2](https://user-images.githubusercontent.com/68558847/183279050-23b9841a-79d6-4a00-9c65-c25b35a9c7ce.png)
+
 
 
 ## Need Analysis
@@ -39,7 +43,7 @@
 <li>It can be difficult to design comfortable-fitting headphones. Product design engineers must be able to create products that are comfortable for a large number of people while keeping manufacturing costs low.</li>
 </ul>
 
-
+## Final Evaluation with Thapar University Teachers
 <img src="https://github.com/ananya-agarwal/YOLO_objDetection/blob/main/TestingInLab.png" width=384>
 
 
