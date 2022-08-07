@@ -16,6 +16,7 @@
 <li> Software/ ML model: YOLOV4 or You Only Look Once, is a popular real-time object detection algorithm. It is helping us detect allowed vs not allowed objects during the examination.
 <li> The webam, micrphone, speaker is connected to the laptop of the examinee. Laptop now has 2 cameras' access. One camera would check only at the front for the authentication of the person. Other camera is mounted on the examinee's head which will rotate 360 and check for the unfair means surrounding the examinee.</li>
 </ul>
+![1](https://user-images.githubusercontent.com/68558847/183278951-5a2edbee-5b3d-42cd-8f93-fc9a3d68b0f4.png)
 
 ## Need Analysis
 <ul>
