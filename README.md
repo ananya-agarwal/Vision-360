@@ -28,7 +28,7 @@
 
 ## Tech used
 <ul>
-<li>Software: Python, You Only Look Once (YOLO V4), Tensorflow, Google Colab, OPENCV, Rest.</li>
+<li>Software: Python, You Only Look Once (YOLO V4), Tensorflow, Google Colab, OPENCV, etc.</li>
 <li>Hardware: 3D Modelling via CREO, Stress Analysis on CREO, 3D Printing, Samsung Earphones wth mic, Lenovo Camera, Rest.</li>
 </ul>
 
