@@ -19,9 +19,6 @@
 
 ![4](https://user-images.githubusercontent.com/68558847/183279218-48d763cc-13cc-4abd-8a11-6dea7f65c7eb.png)
 
-##Testing Phase
-![1](https://user-images.githubusercontent.com/68558847/183279291-7ce3b757-cd6b-4084-bd7d-25ca4f46d451.png)
-
 ## Need Analysis
 <ul>
   <li> 73% of students cheat during online exams.</li>
@@ -35,6 +32,10 @@
 <li>Software: Pyhton, You Only Look Once (YOLO V4), Tensorflow, Google Colab, OPENCV, Rest.</li>
 <li>Hardware: 3D Modelling via CREO, Stress Analysis on CREO, 3D Printing, Samsung Earphones wth mic, Lenovo Camera, Rest.</li>
 </ul>
+
+##Testing Phase
+
+![1](https://user-images.githubusercontent.com/68558847/183279291-7ce3b757-cd6b-4084-bd7d-25ca4f46d451.png)
 
 ## Challenge
 <ul>
