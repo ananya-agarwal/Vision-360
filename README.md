@@ -33,7 +33,7 @@
 <li>Hardware: 3D Modelling via CREO, Stress Analysis on CREO, 3D Printing, Samsung Earphones wth mic, Lenovo Camera, Rest.</li>
 </ul>
 
-##Testing Phase
+## Testing Phase
 
 ![1](https://user-images.githubusercontent.com/68558847/183279291-7ce3b757-cd6b-4084-bd7d-25ca4f46d451.png)
 
@@ -43,7 +43,7 @@
 </ul>
 
 ## Final Evaluation with Thapar University Teachers
-<img src="https://github.com/ananya-agarwal/YOLO_objDetection/blob/main/TestingInLab.png" width=384>
+
 
 
 
