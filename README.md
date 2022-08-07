@@ -39,7 +39,5 @@
 
 <img src="https://github.com/ananya-agarwal/YOLO_objDetection/blob/main/TestingInLab.png" width=384>
 
-<img src="https://github.com/ananya-agarwal/YOLO_objDetection/blob/main/Test_phase1.jpg" width=384>
-<br>
 
 
