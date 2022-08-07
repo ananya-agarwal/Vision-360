@@ -40,6 +40,7 @@
 ## Challenge
 <ul>
 <li>It can be difficult to design comfortable-fitting headphones. Product design engineers must be able to create products that are comfortable for a large number of people while keeping manufacturing costs low.</li>
+<li> The testing was done in a very simple environment. Predicted results could vary if the environmental conditions change such room brightness. This requires further examination.</li>
 </ul>
 
 ## Conclusion
