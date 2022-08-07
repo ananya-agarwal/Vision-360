@@ -35,7 +35,7 @@
 
 ## Testing Phase
 
-![1](https://user-images.githubusercontent.com/68558847/183279291-7ce3b757-cd6b-4084-bd7d-25ca4f46d451.png)
+![1](https://user-images.githubusercontent.com/68558847/183279696-db91da7c-df32-4270-9675-0ef21bb8bda7.png)
 
 ## Challenge
 <ul>
