@@ -34,7 +34,7 @@
 </ul>
 
 ## Testing Phase
-
+![2](https://user-images.githubusercontent.com/68558847/183279758-6d8c0e70-2842-43e1-8276-ea8cb5e6f67f.png)
 ![1](https://user-images.githubusercontent.com/68558847/183279696-db91da7c-df32-4270-9675-0ef21bb8bda7.png)
 
 ## Challenge
@@ -42,9 +42,12 @@
 <li>It can be difficult to design comfortable-fitting headphones. Product design engineers must be able to create products that are comfortable for a large number of people while keeping manufacturing costs low.</li>
 </ul>
 
-## Final Evaluation with University Teachers
+## Conclusion
+<ul>
+<li> Resultant is a headband which will help in help mitigating use of unfair means by providing secondary view of the examinee's surroundings.</li>
+</ul>
 
-![2](https://user-images.githubusercontent.com/68558847/183279758-6d8c0e70-2842-43e1-8276-ea8cb5e6f67f.png)
+
 
 
 
