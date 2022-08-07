@@ -12,7 +12,7 @@
 ## Overview
 <ul>
   <li> Hardware: A headband is prototyped via 3D modelling on CREO. It was later 3D printed. Special mount was created to place the camera for a better view. Band is made such that it completed the need of a microphone and a speaker which is a necessity of the online examinations. </li>
-<li> This device smartly detects and prevents cheating by using AI combined with 360 degrees view to check if there are some objectionable means in the environment of the examine. </li>
+<li> This device smartly detects and prevents cheating by using AI combined with 360 degrees view to check if there are some objectionable means in the environment of the examinee. </li>
 <li> Software/ ML model: YOLOV4 or You Only Look Once, is a popular real-time object detection algorithm. It is helping us detect allowed vs not allowed objects during the examination.</li>
 <li> The webam, micrphone, speaker is connected to the laptop of the examinee. Laptop now has 2 cameras' access. One camera would check only at the front for the authentication of the person. Other camera is mounted on the examinee's head which will rotate 360 and check for the unfair means surrounding the examinee.</li>
 </ul>
@@ -22,7 +22,7 @@
 ## Need Analysis
 <ul>
   <li> 73% of students cheat during online exams.</li>
-  <li> Survey we conducted via the Google form filled by various Institutes' students: more than 75% percent feel that online examinations is more of cheating and less of knowledge but if they won't cheat then others will score more.</li>
+  <li> Survey conducted via the Google form filled by various Institutes' students: more than 75% percent feel that online examinations is more of cheating and less of knowledge but if they won't cheat then others will score more.</li>
   <li> Survey conducted amongst the Thapar University Faculty conclusion: Need of better proctoring to be able to minimise the malicious practices and make the system more efficient via integration of hardware and software technologies.</li>
   <li> From the surveys, we got some solutions like double camera feed, wide angle camera, increasing field of view and advance AI. </li>
 </ul>
