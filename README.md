@@ -14,6 +14,7 @@
 <li> This device smartly detects and prevents cheating by using AI combined with 360 degrees view to check if there are some objectionable means in the environment of the examinee. </li>
 <li> Software/ ML model: YOLOV4 or You Only Look Once, is a popular real-time object detection algorithm. It is helping us detect allowed vs not allowed objects during the examination.</li>
 <li> The webam, micrphone, speaker is connected to the laptop of the examinee. Laptop now has 2 cameras' access. One camera would check only at the front for the authentication of the person. Other camera is mounted on the examinee's head which will rotate 360 and check for the unfair means surrounding the examinee.</li>
+<li> COCO Dataset with 2.5 million labeled instances was used.</li>
 </ul>
 
 ![4](https://user-images.githubusercontent.com/68558847/183279218-48d763cc-13cc-4abd-8a11-6dea7f65c7eb.png)
