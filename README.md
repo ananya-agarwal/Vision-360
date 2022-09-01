@@ -38,10 +38,11 @@
 
 ![1](https://user-images.githubusercontent.com/68558847/183279696-db91da7c-df32-4270-9675-0ef21bb8bda7.png)
 
-More than 50 times tested the images and given the suitable environment, it was able to correctly identify the different objects.
 
 ## Challenge
 <ul>
+<li> Earphones which was a necessity to be detected were not detected.</li>
+<li> Detetction of the partially hidden objects was difficult.</li>
 <li>It can be difficult to design comfortable-fitting headphones. Product design engineers must be able to create products that are comfortable for a large number of people while keeping manufacturing costs low.</li>
 <li> The testing was done in a very simple environment. Predicted results could vary if the environmental conditions change such room brightness. This requires further examination.</li>
 <li> Funding for the camera</li>
