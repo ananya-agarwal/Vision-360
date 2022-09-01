@@ -12,9 +12,9 @@
 <ul>
   <li> Hardware: A headband is prototyped via 3D modelling on CREO. It was later 3D printed. Special mount was created to place the camera for a better view. Band is made such that it completed the need of a microphone and a speaker which is a necessity of the online examinations. </li>
 <li> This device smartly detects and prevents cheating by using AI combined with 360 degrees view to check if there are some objectionable means in the environment of the examinee. </li>
-<li> Software/ ML model: YOLOV4 or You Only Look Once, is a popular real-time object detection algorithm. It is helping us detect allowed vs not allowed objects during the examination.</li>
-<li> The webam, micrphone, speaker is connected to the laptop of the examinee. Laptop now has 2 cameras' access. One camera would check only at the front for the authentication of the person. Other camera is mounted on the examinee's head which will rotate 360 and check for the unfair means surrounding the examinee.</li>
-<li> COCO Dataset with 2.5 million labeled instances was used.</li>
+<li> Software/ ML model: YOLOV4 or You Only Look Once, is a popular real-time object detection algorithm. It is helping us detect diff objects that can be present during the examination.</li>
+<li> We have formulated a dataset of 1000 images having objects from 11 different classes here on which the training and testing of the model was done.</li>
+<li> During deployment: The webam, micrphone, speaker is connected to the laptop of the examinee. Laptop now has 2 cameras' access. One camera would check only at the front for the authentication of the person. Other camera is mounted on the examinee's head which will check for the unfair means surrounding the examinee and both the cameras together provide complete 360 degree vision of the examinee's surroundings.</li>
 </ul>
 
 ![4](https://user-images.githubusercontent.com/68558847/183279218-48d763cc-13cc-4abd-8a11-6dea7f65c7eb.png)
